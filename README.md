@@ -23,3 +23,6 @@ In this competition analyze features extracted from traffic images depicting dif
 - 64 Local Binary Pattern (LBP) features
 - 48 Color gradient (RGB) features
 - 7 Depth of Field (DF) features
+
+## Text Clustering
+
